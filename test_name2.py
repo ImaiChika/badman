@@ -6,8 +6,8 @@ import asyncio
 import socks
 
 # ==================== 配置区 ====================
-api_id = '32805884'
-api_hash = '0573c570f9296be684a0ebd0c80dedcf'
+api_id = ''
+api_hash = ''
 
 channel_username = '@aeq91'          # 要爬的频道
 output_file = 'channel_name_aeq91.json'   # 保存文件
