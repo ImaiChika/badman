@@ -7,8 +7,8 @@ import asyncio
 import socks  # 如果使用代理
 
 # 替换为您的 API ID 和 API Hash
-api_id = '32805884'
-api_hash = '0573c570f9296be684a0ebd0c80dedcf'
+api_id = ''
+api_hash = ''
 
 # 指定频道用户名或 ID
 channel_username = '@tddbda'
