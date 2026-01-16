@@ -9,8 +9,8 @@ import socks
 api_id = '32805884'
 api_hash = '0573c570f9296be684a0ebd0c80dedcf'
 
-channel_username = '@acg18x'          # 要爬的频道
-output_file = 'nchannel_acg18x.json'   # 保存文件
+channel_username = '@LMYYDS8'          # 要爬的频道
+output_file = 'nchannel_LMYYDS8.json'   # 保存文件
 
 total_limit = 1000000                 # 最大消息数，0=无限制
 limit_per_request = 100
